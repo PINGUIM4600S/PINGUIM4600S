@@ -13,7 +13,7 @@
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
   
-  ##
+ ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCPmyJvAEQ_-v5i826s6NHwA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
